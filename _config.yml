@@ -1,0 +1,12 @@
+title: github playground of flobot.de
+#url: http://www.flobot.de
+
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title
+
+lsi: true
+paginate: 20
+baseurl: http://flobotde.github.com
+exclude:
+- CNAME
